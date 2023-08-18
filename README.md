@@ -12,16 +12,15 @@
     src="https://komarev.com/ghpvc/?username=mahendra-kumawat&label=Profile%20views&color=0e75b6&style=flat"
     alt="mahendra-kumawat" />
 </p>
-<p>
+<p style="font-weight: bold;">
 🌱 I’m currently learning **React** 
 </p>
-<p>
-💬 Ask me about **Frontend Developer** 
+<p style="font-weight: bold;">
+💬 Ask me about - **Frontend Developer** 
 </p>
-<p>
-⚡ Fun fact **I think i am very funny 😎**
+<p style="font-weight: bold;">
+⚡ Fun fact - **I think i am very funny 😎**
 </p>
-
 <h3>Connect with me:</h3>
 
 <h3>Languages and Tools:</h3>
