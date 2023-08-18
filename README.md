@@ -1,7 +1,7 @@
-<div style="width: 900px; border: 2px solid green; overflow: hidden">
+<div style="width: 900px; overflow: hidden">
   <img
     style="object-fit: cover; width: 100%"
-    src="https://as1.ftcdn.net/v2/jpg/03/18/60/62/1000_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" />
+    src="https://cdn.pixabay.com/photo/2019/08/14/15/16/macbook-4405976_640.jpg" />
 </div>
 
 <h1 style="font-size: 50px">Hi 👋, I'm Mahendra</h1>
