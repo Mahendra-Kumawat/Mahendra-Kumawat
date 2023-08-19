@@ -21,6 +21,7 @@
 <p style="font-weight: bold;">
 ⚡ Fun fact - **I think i am very funny 😎**
 </p>
+
 <h3>Connect with me:</h3>
 
 <h3>Languages and Tools:</h3>
